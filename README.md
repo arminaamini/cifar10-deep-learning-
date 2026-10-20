@@ -138,12 +138,11 @@ cifar10-deep-learning-experiments/
 │   └── best_cnn_transfer.keras
 │
 ├── histories/
-│   ├── model2_history.npz
-│   ├── model3_history.npz
-│   └── model4_history.npz
-│
-└── figures/
-```
+    ├── model2_history.npz
+    ├── model3_history.npz
+    └── model4_history.npz
+
+
 
 The saved model and history files make it possible to inspect trained models and reproduce plots without retraining every experiment.
 
