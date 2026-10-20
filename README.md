@@ -1,1 +1,1 @@
-# cifar10-deep-learning-
+# cifar10-deep-learning
